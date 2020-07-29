@@ -1,0 +1,32 @@
+D:\Studying\CourseWork\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe.config
+D:\Studying\CourseWork\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe
+D:\Studying\CourseWork\CourseProgram\CourseProgram\bin\Debug\CourseProgram.pdb
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csprojAssemblyReference.cache
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Clients.resources
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Main.resources
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.OrderLines.resources
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Orders.resources
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Plans.resources
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Products.resources
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.exe
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.pdb
+D:\Studying\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Information.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe.config
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\bin\Debug\CourseProgram.pdb
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csprojAssemblyReference.cache
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Clients.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Information.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Main.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.OrderLines.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Orders.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Plans.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Products.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.exe
+E:\Studying\KPI - 3 course - 1 sem\CourseWork\CourseProgram\CourseProgram\obj\Debug\CourseProgram.pdb
